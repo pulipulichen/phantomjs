@@ -1,0 +1,1 @@
+/tmp/phantomjs/phantomjs.sh "http://pulipulichen.github.io/phantomjs/demo/demo.html" "div.content"
